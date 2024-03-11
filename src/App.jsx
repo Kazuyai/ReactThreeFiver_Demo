@@ -12,7 +12,7 @@ const Box = props => {
 	useFrame(() => (ref.current.rotation.x += 0.01));
 
 	const { scale } = useSpring({
-		scale: clicked ? [2, 2, 2] : [1, 1, 1],
+		scale: clicked ? [3, 3, 3] : [1, 1, 1],
 		config: config.wobbly,
 	});
 
