@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactThreeFiver_Demo/static/css/main.cd1f7e8f.css",
+    "main.js": "/ReactThreeFiver_Demo/static/js/main.a147ef7f.js",
+    "index.html": "/ReactThreeFiver_Demo/index.html",
+    "main.cd1f7e8f.css.map": "/ReactThreeFiver_Demo/static/css/main.cd1f7e8f.css.map",
+    "main.a147ef7f.js.map": "/ReactThreeFiver_Demo/static/js/main.a147ef7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1f7e8f.css",
+    "static/js/main.a147ef7f.js"
+  ]
+}
